@@ -13,5 +13,5 @@ O script foi baseado na distribuição Ubuntu, mais especificamente em Ubuntu Se
  - Como podemos ver na imagem á seguir, os arquivos foram baixados com sucesso e movidos para a pasta padrão do Apache
  ![](https://github.com/FelipeAdriano1/linux-projeto2-iac-server/blob/main/img/arquivosBaixados.png)
 
-# Reconhecimentos
+# Reconhecimentos 🥇
 ### O curso pode ser encontrado na plataforma da [DIO](https://www.dio.me/) Curso; [Linux Fundamentals](https://web.dio.me/track/formacao-linux-fundamentals)
